@@ -6,8 +6,8 @@
 }
 div.cycle-slideshow{
     margin: 0 auto 0 auto ;
-    width: 75%;
-    align-content: center;
+    width: auto;
+   align: auto;
 
 }
 div.container{
