@@ -5,9 +5,10 @@
     padding: 0;
 }
 div.cycle-slideshow{
-    width: 33%;
-    display: block;
-    left: 409px;
+    margin: 0 auto 0 auto ;
+    width: 75%;
+    align-content: center;
+
 }
 div.container{
     width: 80%;
